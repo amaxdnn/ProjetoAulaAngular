@@ -1,5 +1,5 @@
 # ProjetoAulaAngular
  Projeto da disciplina de Angular
 
- Comit Inicial do Projeto.
+Teste de comit e push - nova alteração
  
